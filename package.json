@@ -1,1 +1,0 @@
-{"name":"sanal-ekonomi","version":"0.4.0","scripts":{"start":"node server.js"},"dependencies":{"fastify":"latest","@fastify/cors":"latest","@fastify/jwt":"latest","bcryptjs":"latest","better-sqlite3":"latest"}}
