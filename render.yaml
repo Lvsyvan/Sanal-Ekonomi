@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: sanal-ekonomi
-    runtime: docker
-    plan: free
-    envVars:
-      - key: JWT_SECRET
-        generateValue: true
