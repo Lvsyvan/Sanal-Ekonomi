@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: sanal-ekonomi
-    env: docker
-    plan: free
-    autoDeploy: true
-    healthCheckPath: /health
