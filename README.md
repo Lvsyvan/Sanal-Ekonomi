@@ -1,1 +1,0 @@
-GitHub'a 5 dosyayı yükle: server.js, package.json, Dockerfile, render.yaml, README.md. Sonra Render > New > Blueprint ile repository'yi bağla.
